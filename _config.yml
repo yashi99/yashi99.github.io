@@ -1,2 +1,6 @@
 # Build settings
-theme: Cayman
+deploy:
+  type: git
+  repo: git@github.com:yashi99/yashi99.github.io.git
+  branch: master
+  theme: Cayman
