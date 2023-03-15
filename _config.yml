@@ -1,6 +1,7 @@
 # Build settings
-deploy:
-  type: git
-  repo: https://github.com/yashi99/yashi99.github.io
-  branch: main
-  theme: Cayman
+#deploy:
+ # type: git
+  #repo: https://github.com/yashi99/yashi99.github.io
+ # branch: main
+ # theme: Cayman
+remote_theme: pages-themes/merlot@v0.2.0
